@@ -12,7 +12,7 @@
     <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
     <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
     <circle cx="64" cy="17" r="6" fill="#27c93f"/>
-    <text x="480" y="21" fill="#8b949e" font-size="12" text-anchor="middle">numan@dev — fastfetch</text>
+    <text x="480" y="21" fill="#8b949e" font-size="12" text-anchor="middle">字节4 @dev — fastfetch</text>
 
     <g id="content">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.70;0.75;1" dur="12s" repeatCount="indefinite"/>
@@ -42,7 +42,7 @@
 
       <text x="400" y="70" fill="#7ee787" font-size="14" font-weight="bold" opacity="0">
         <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.025;0.042;1" dur="12s" repeatCount="indefinite"/>
-        numan@dev
+        字节4 @dev
       </text>
       <text x="400" y="88" fill="#30363d" font-size="13" opacity="0">
         <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.033;0.05;1" dur="12s" repeatCount="indefinite"/>
