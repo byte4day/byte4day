@@ -48,7 +48,7 @@ I care about:
 ## Featured projects
 
 <div align="center">
-  <img src="https://github.com/byte4day/byte4day/raw/main/assets/featured-projects.svg?v=2" width="960" alt="Featured projects: AyahPath, AI Usage Extension, PxForge, and WhiteBoard" />
+  <img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/featured-projects.svg?v=3" width="960" alt="Featured projects: AyahPath, AI Usage Extension, PxForge, and WhiteBoard" />
 </div>
 
 <p align="center">
