@@ -6,7 +6,7 @@
 
 Building useful products, automation systems, and developer tools at the intersection of **software engineering, applied AI, and security**.
 
-<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=11" width="960" alt="byte4day terminal profile" />
+<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=12" width="960" alt="byte4day terminal profile" />
 
 <p>
   <a href="https://github.com/byte4day">GitHub</a> ·
@@ -47,28 +47,36 @@ I care about:
 
 ## Featured projects
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/byte4day/AyahPath">AyahPath</a></h3>
-      A Qur'anic life-guidance application designed around accessibility, personalization, journaling, prayer tracking, and offline-first use.
+      <p>Qur'anic life guidance with accessibility, personalization, journaling, prayer tracking, and offline-first support.</p>
+      <p><sub>Python · Flask · SQLite · JavaScript · PWA</sub></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/byte4day/AI-Usage-Extension">AI Usage Extension</a></h3>
-      A browser extension project exploring practical AI usage, productivity, and better user workflows.
+      <p>A browser extension focused on making AI usage more practical, organized, and productive.</p>
+      <p><sub>Browser Extension · JavaScript · Productivity</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/byte4day/PxForge">PxForge</a></h3>
-      An independent developer project focused on experimentation, tooling, and product development.
+      <p>An independent project exploring developer tooling, experimentation, and product-focused engineering.</p>
+      <p><sub>Developer Tools · Product Engineering</sub></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/byte4day/WhiteBoard">WhiteBoard</a></h3>
-      A lightweight whiteboard project exploring interactive web experiences and collaborative-style functionality.
+      <p>A lightweight interactive whiteboard project built around a simple, focused web experience.</p>
+      <p><sub>Web Development · Interactive UI</sub></p>
     </td>
   </tr>
 </table>
+
+</div>
 
 ## Areas of interest
 
