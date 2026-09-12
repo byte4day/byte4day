@@ -6,7 +6,21 @@
 
 I build practical software, automation systems, and developer-focused products with a strong interest in AI, cybersecurity, and emerging technologies.
 
-<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=8" width="960" alt="byte4day terminal profile" />
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ byte4day@github:~$ whoami                                   │
+│                                                              │
+│ Full-stack developer building useful digital products       │
+│                                                              │
+│ byte4day@github:~$ focus                                     │
+│                                                              │
+│ AI · Automation · Cybersecurity · Developer Tools · SaaS     │
+│                                                              │
+│ byte4day@github:~$ status                                    │
+│                                                              │
+│ Building, learning, shipping.                               │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <p>
   <a href="https://github.com/byte4day">GitHub</a> ·
