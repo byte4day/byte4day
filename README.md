@@ -48,35 +48,15 @@ I care about:
 ## Featured projects
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/AyahPath">AyahPath</a></h3>
-      <p>Qur'anic life guidance with accessibility, personalization, journaling, prayer tracking, and offline-first support.</p>
-      <p><sub>Python · Flask · SQLite · JavaScript · PWA</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/AI-Usage-Extension">AI Usage Extension</a></h3>
-      <p>A browser extension focused on making AI usage more practical, organized, and productive.</p>
-      <p><sub>Browser Extension · JavaScript · Productivity</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/PxForge">PxForge</a></h3>
-      <p>An independent project exploring developer tooling, experimentation, and product-focused engineering.</p>
-      <p><sub>Developer Tools · Product Engineering</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/WhiteBoard">WhiteBoard</a></h3>
-      <p>A lightweight interactive whiteboard project built around a simple, focused web experience.</p>
-      <p><sub>Web Development · Interactive UI</sub></p>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/featured-projects.svg?v=1" width="960" alt="Featured projects: AyahPath, AI Usage Extension, PxForge, and WhiteBoard" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/byte4day/AyahPath">AyahPath</a> ·
+  <a href="https://github.com/byte4day/AI-Usage-Extension">AI Usage Extension</a> ·
+  <a href="https://github.com/byte4day/PxForge">PxForge</a> ·
+  <a href="https://github.com/byte4day/WhiteBoard">WhiteBoard</a>
+</p>
 
 ## Areas of interest
 
