@@ -6,6 +6,8 @@
 
 I build practical software, automation systems, and developer-focused products with a strong interest in AI, cybersecurity, and emerging technologies.
 
+<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=8" width="960" alt="byte4day terminal profile" />
+
 <p>
   <a href="https://github.com/byte4day">GitHub</a> ·
   <a href="https://github.com/byte4day?tab=repositories">Projects</a>
