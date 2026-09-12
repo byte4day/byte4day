@@ -2,29 +2,35 @@
 
 # byte4day
 
-### Full-Stack Developer · AI Builder · Cybersecurity Practitioner · Product Engineer
+### Full-Stack Developer · AI Engineer · Cybersecurity Enthusiast
 
-I build practical software, automation systems, and developer-focused products with a strong interest in AI, cybersecurity, and emerging technologies.
+Building useful products, automation systems, and developer tools at the intersection of **software engineering, applied AI, and security**.
 
-<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=10" width="960" alt="byte4day terminal profile" />
+<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=11" width="960" alt="byte4day terminal profile" />
 
 <p>
   <a href="https://github.com/byte4day">GitHub</a> ·
-  <a href="https://github.com/byte4day?tab=repositories">Projects</a>
+  <a href="https://github.com/byte4day?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/byte4day?tab=activity">Activity</a>
 </p>
 
 </div>
 
 ---
 
-## About me
+## About
 
-- Building full-stack applications, automation workflows, AI-powered tools, and independent products
-- Interested in secure architecture, scalable systems, developer experience, and applied AI
-- Exploring cybersecurity, blockchain, crypto markets, and technology-driven business ideas
-- Focused on turning ideas into usable products rather than just prototypes
+I turn ideas into practical, maintainable software. My work spans full-stack applications, AI-powered workflows, browser tools, automation, and independent product experiments.
 
-## Core technologies
+I care about:
+
+- Building products that solve real problems
+- Designing clean, secure, and maintainable systems
+- Applying AI where it creates measurable value
+- Improving developer experience and workflow automation
+- Learning quickly, shipping consistently, and iterating with purpose
+
+## Tech stack
 
 <div align="center">
 
@@ -33,36 +39,49 @@ I build practical software, automation systems, and developer-focused products w
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 </div>
 
-## Selected projects
+## Featured projects
 
-| Project | Description |
-| --- | --- |
-| [AyahPath](https://github.com/byte4day/AyahPath) | A Qur'anic life-guidance application focused on accessibility, personalization, and offline-first usage. |
-| [PxForge](https://github.com/byte4day/PxForge) | A focused developer project exploring practical tooling and product development. |
-| [AI Usage Extension](https://github.com/byte4day/AI-Usage-Extension) | A browser extension project focused on AI usage and productivity. |
-| [NezoPer](https://github.com/byte4day/NezoPer) | An independent software project built as part of my ongoing product experiments. |
-| [WhiteBoard](https://github.com/byte4day/WhiteBoard) | A lightweight collaborative-style whiteboard project. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/byte4day/AyahPath">AyahPath</a></h3>
+      A Qur'anic life-guidance application designed around accessibility, personalization, journaling, prayer tracking, and offline-first use.
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/byte4day/AI-Usage-Extension">AI Usage Extension</a></h3>
+      A browser extension project exploring practical AI usage, productivity, and better user workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/byte4day/PxForge">PxForge</a></h3>
+      An independent developer project focused on experimentation, tooling, and product development.
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/byte4day/WhiteBoard">WhiteBoard</a></h3>
+      A lightweight whiteboard project exploring interactive web experiences and collaborative-style functionality.
+    </td>
+  </tr>
+</table>
 
-## What I care about
+## Areas of interest
 
-- **Engineering:** clean architecture, maintainability, performance, and reliable systems
-- **Security:** secure-by-design development, privacy, threat awareness, and defensive engineering
-- **AI:** useful automation, intelligent interfaces, and practical AI integrations
-- **Products:** fast iteration, strong user experience, and sustainable execution
+`Full-Stack Development` · `Applied AI` · `Automation` · `Cybersecurity` · `Developer Tools` · `SaaS` · `Blockchain`
 
-## Current direction
+## Current focus
 
-Building and refining independent products while exploring the intersection of full-stack engineering, AI automation, cybersecurity, and digital businesses.
+Building and refining independent products, improving engineering depth, and exploring how AI automation and secure software design can create better digital experiences.
 
 ---
 
 <div align="center">
 
-### Build useful things. Ship consistently. Keep learning.
+**Build useful things. Ship consistently. Keep learning.**
 
 </div>
