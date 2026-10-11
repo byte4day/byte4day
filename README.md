@@ -2,90 +2,27 @@
 
 # byte4day
 
-### Full-Stack Developer · AI Engineer · Cybersecurity Enthusiast
-
-Building useful products, automation systems, and developer tools at the intersection of **software engineering, applied AI, and security**.
+Numan Hayder · developer tools, AI agents and Linux desktop software
 
 <img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=12" width="960" alt="byte4day terminal profile" />
 
-<p>
-  <a href="https://github.com/byte4day">GitHub</a> ·
-  <a href="https://github.com/byte4day?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/byte4day?tab=activity">Activity</a>
-</p>
+[numan.fun](https://www.numan.fun) · [Repositories](https://github.com/byte4day?tab=repositories)
 
 </div>
 
----
+## Now
 
-## About
+| Project | What it does |
+|---|---|
+| [**Modu**](https://modu.ubits.tech) | AI operator for Discord servers, Slack workspaces and WhatsApp numbers. Plans each change, waits for your OK, keeps an undo. Built at UBITS Technologies. |
+| [**nummode**](https://github.com/byte4day/nummode) | Paste a big prompt; it routes the right skills in Claude Code, Cursor and Codex, then verifies the work. |
+| **QuranFlow** | `play-quran yasin` — Qur'an recitation in the background while you code, from the terminal or an agent. *(private for now)* |
+| [**Lost Island**](https://github.com/byte4day/lost-island-archcraft-sway) | A black dynamic island for Sway: music, toggles, focus timer, screen recording, agent launchers. |
+| [**AI Usage**](https://github.com/byte4day/AI-Usage-Extension) | Cursor, Claude and Codex usage limits in GNOME Shell and a Windows widget. |
+| [**PxForge**](https://github.com/byte4day/PxForge) | Turns a codebase into one AI-ready context document. |
 
-I turn ideas into practical, maintainable software. My work spans full-stack applications, AI-powered workflows, browser tools, automation, and independent product experiments.
+## Also
 
-I care about:
+[AyahPath](https://github.com/byte4day/AyahPath) · [WhiteBoard](https://github.com/byte4day/WhiteBoard) · [NezoPer](https://github.com/byte4day/NezoPer) · [bite-watch](https://github.com/byte4day/bite-watch) · [Claude-makeup-skill](https://github.com/byte4day/Claude-makeup-skill)
 
-- Building products that solve real problems
-- Designing clean, secure, and maintainable systems
-- Applying AI where it creates measurable value
-- Improving developer experience and workflow automation
-- Learning quickly, shipping consistently, and iterating with purpose
-
-## Tech stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-</div>
-
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/AyahPath">AyahPath</a></h3>
-      <p>Qur'anic guidance platform with accessibility, personalization, journaling, prayer tracking, and offline-first support.</p>
-      <p><sub>Flask · SQLite · JavaScript · PWA</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/AI-Usage-Extension">AI Usage Extension</a></h3>
-      <p>Browser productivity tooling for more practical and organized AI-assisted workflows.</p>
-      <p><sub>JavaScript · Browser Extension</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/PxForge">PxForge</a></h3>
-      <p>Independent developer tooling and product engineering experiments.</p>
-      <p><sub>Developer Tools · Product Engineering</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/byte4day/WhiteBoard">WhiteBoard</a></h3>
-      <p>Lightweight interactive web canvas exploring creative and collaborative interfaces.</p>
-      <p><sub>Web Development · Interactive UI</sub></p>
-    </td>
-  </tr>
-</table>
-
-## Areas of interest
-
-`Full-Stack Development` · `Applied AI` · `Automation` · `Cybersecurity` · `Developer Tools` · `SaaS` · `Blockchain`
-
-## Current focus
-
-Building and refining independent products, improving engineering depth, and exploring how AI automation and secure software design can create better digital experiences.
-
----
-
-<div align="center">
-
-**Build useful things. Ship consistently. Keep learning.**
-
-</div>
+<sub>Python · TypeScript · Next.js · Node · GTK4 · Linux</sub>
