@@ -14,6 +14,7 @@ Numan Hayder · developer tools, AI agents and Linux desktop software
 
 | Project | What it does |
 |---|---|
+| [**Copycat**](https://github.com/byte4day/Copycat) | See it. Understand it. Rebuild it. An agent skill for Claude Code, Codex, Cursor and Antigravity that inspects a UI in a real browser, rebuilds it in your stack and diffs the result. |
 | [**Modu**](https://modu.ubits.tech) | AI operator for Discord servers, Slack workspaces and WhatsApp numbers. Plans each change, waits for your OK, keeps an undo. Built at UBITS Technologies. |
 | [**nummode**](https://github.com/byte4day/nummode) | Paste a big prompt; it routes the right skills in Claude Code, Cursor and Codex, then verifies the work. |
 | **QuranFlow** | `play-quran yasin` — Qur'an recitation in the background while you code, from the terminal or an agent. *(private for now)* |
@@ -25,4 +26,4 @@ Numan Hayder · developer tools, AI agents and Linux desktop software
 
 [AyahPath](https://github.com/byte4day/AyahPath) · [WhiteBoard](https://github.com/byte4day/WhiteBoard) · [NezoPer](https://github.com/byte4day/NezoPer) · [bite-watch](https://github.com/byte4day/bite-watch) · [Claude-makeup-skill](https://github.com/byte4day/Claude-makeup-skill)
 
-<sub>Python · TypeScript · Next.js · Node · GTK4 · Linux</sub>
+<sub>Python · TypeScript · Next.js · Node · Playwright · GTK4 · Linux</sub>
