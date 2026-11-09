@@ -4,7 +4,7 @@
 
 Numan Hayder · developer tools, AI agents and Linux desktop software
 
-<img src="assets/terminal-linux.png" width="720" alt="terminal-linux agent-terminal" />
+<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=13" width="960" alt="byte4day terminal profile" />
 
 [numan.fun](https://www.numan.fun) · [CV](https://www.numan.fun/cv.pdf) · [Repositories](https://github.com/byte4day?tab=repositories)
 
