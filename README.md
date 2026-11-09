@@ -4,7 +4,7 @@
 
 Numan Hayder · developer tools, AI agents and Linux desktop software
 
-<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=13" width="960" alt="byte4day terminal profile" />
+<img src="assets/terminal-linux.png" width="720" alt="terminal-linux agent-terminal" />
 
 [numan.fun](https://www.numan.fun) · [CV](https://www.numan.fun/cv.pdf) · [Repositories](https://github.com/byte4day?tab=repositories)
 
@@ -14,6 +14,7 @@ Numan Hayder · developer tools, AI agents and Linux desktop software
 
 | Project | What it does |
 |---|---|
+| [**terminal-linux**](https://github.com/byte4day/terminal-linux) | A Linux desktop for AI agents, live in your terminal. Guest shell, Firefox, MCP computer-use tools. |
 | [**Product Video**](https://github.com/byte4day/claude-video-skill) | Claude Code plugin: research a product or game, storyboard, build Remotion/Three.js, QA-gate, then deliver the MP4. |
 | [**Copycat**](https://github.com/byte4day/Copycat) | See it. Understand it. Rebuild it. An agent skill for Claude Code, Codex, Cursor and Antigravity that inspects a UI in a real browser, rebuilds it in your stack and diffs the result. |
 | [**Modu**](https://modu.ubits.tech) | AI operator for Discord servers, Slack workspaces and WhatsApp numbers. Plans each change, waits for your OK, keeps an undo. Built at UBITS Technologies. |
