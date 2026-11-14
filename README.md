@@ -1,10 +1,10 @@
 <div align="center">
 
-# byte4day
-
-Numan Hayder · developer tools, AI agents and Linux desktop software
-
-<img src="https://raw.githubusercontent.com/byte4day/byte4day/main/assets/profile.svg?v=13" width="960" alt="byte4day terminal profile" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-dark.svg" width="600" alt="byte4day. Numan Hayder: developer tools, AI agents and Linux desktop software." />
+</picture>
 
 [numan.fun](https://www.numan.fun) · [CV](https://www.numan.fun/cv.pdf) · [Repositories](https://github.com/byte4day?tab=repositories)
 
@@ -12,21 +12,13 @@ Numan Hayder · developer tools, AI agents and Linux desktop software
 
 ## Now
 
-| Project | What it does |
-|---|---|
-| [**terminal-linux**](https://github.com/byte4day/terminal-linux) | A Linux desktop for AI agents, live in your terminal. Guest shell, Firefox, MCP computer-use tools. |
-| [**Product Video**](https://github.com/byte4day/claude-video-skill) | Claude Code plugin: research a product or game, storyboard, build Remotion/Three.js, QA-gate, then deliver the MP4. |
-| [**Copycat**](https://github.com/byte4day/Copycat) | See it. Understand it. Rebuild it. An agent skill for Claude Code, Codex, Cursor and Antigravity that inspects a UI in a real browser, rebuilds it in your stack and diffs the result. |
-| [**Modu**](https://modu.ubits.tech) | AI operator for Discord servers, Slack workspaces and WhatsApp numbers. Plans each change, waits for your OK, keeps an undo. Built at UBITS Technologies. |
-| [**nummode**](https://github.com/byte4day/nummode) | Paste a big prompt; it routes the right skills in Claude Code, Cursor and Codex, then verifies the work. |
-| [**DevOps Agent**](https://github.com/byte4day/devops-agent) | Lets a coding agent deploy, debug and roll back an app, and prove it is healthy. |
-| [**QuranFlow**](https://github.com/byte4day/quranflow) | `play-quran yasin` — Qur'an recitation in the background while you code, from the terminal or an agent. |
-| [**Lost Island**](https://github.com/byte4day/lost-island-archcraft-sway) | A black dynamic island for Sway: music, toggles, focus timer, screen recording, agent launchers. |
-| [**AI Usage**](https://github.com/byte4day/AI-Usage-Extension) | Cursor, Claude and Codex usage limits in GNOME Shell and a Windows widget. |
-| [**PxForge**](https://github.com/byte4day/PxForge) | Turns a codebase into one AI-ready context document. |
+- [**terminal-linux**](https://github.com/byte4day/terminal-linux): a separate Linux desktop for computer-use agents, viewed and controlled from a terminal.
+- [**Copycat**](https://github.com/byte4day/Copycat): an agent skill that inspects a UI in a real browser, rebuilds it in your stack and diffs the result.
+- [**nummode**](https://github.com/byte4day/nummode): paste a big prompt; it routes the right skills in Claude Code, Cursor and Codex, then verifies the work.
+- [**Modu**](https://modu.ubits.tech): AI operator for Discord servers, Slack workspaces and WhatsApp numbers. Built at UBITS Technologies.
+- [**Product Video**](https://github.com/byte4day/claude-video-skill): Claude Code plugin that takes a product or game from research and storyboard to a QA-gated MP4.
+- [**DevOps Agent**](https://github.com/byte4day/devops-agent): deploy, debug and operate applications from your AI coding assistant.
 
 ## Also
 
-[AyahPath](https://github.com/byte4day/AyahPath) · [WhiteBoard](https://github.com/byte4day/WhiteBoard) · [NezoPer](https://github.com/byte4day/NezoPer) · [bite-watch](https://github.com/byte4day/bite-watch) · [Claude-makeup-skill](https://github.com/byte4day/Claude-makeup-skill)
-
-<sub>Python · TypeScript · Next.js · Node · Playwright · GTK4 · Linux · Remotion · Three.js</sub>
+[QuranFlow](https://github.com/byte4day/quranflow) · [Lost Island](https://github.com/byte4day/lost-island-archcraft-sway) · [AI Usage](https://github.com/byte4day/AI-Usage-Extension) · [PxForge](https://github.com/byte4day/PxForge) · [AyahPath](https://github.com/byte4day/AyahPath) · [WhiteBoard](https://github.com/byte4day/WhiteBoard) · [NezoPer](https://github.com/byte4day/NezoPer) · [bite-watch](https://github.com/byte4day/bite-watch) · [Claude-makeup-skill](https://github.com/byte4day/Claude-makeup-skill)
