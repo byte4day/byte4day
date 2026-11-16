@@ -12,6 +12,7 @@
 
 ## Now
 
+- [**GTA 6 Clipper**](https://github.com/byte4day/gta6-clipper): records 36 Twitch and YouTube streamers while they are live and turns the best moments into captioned 9:16 clips within a minute or two. Python with a Rust core.
 - [**terminal-linux**](https://github.com/byte4day/terminal-linux): a separate Linux desktop for computer-use agents, viewed and controlled from a terminal.
 - [**Copycat**](https://github.com/byte4day/Copycat): an agent skill that inspects a UI in a real browser, rebuilds it in your stack and diffs the result.
 - [**nummode**](https://github.com/byte4day/nummode): paste a big prompt; it routes the right skills in Claude Code, Cursor and Codex, then verifies the work.
